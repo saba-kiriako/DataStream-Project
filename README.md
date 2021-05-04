@@ -4,6 +4,8 @@
 We will use Vélib API, that allows to monitor bike stations in many cities, to observe real-time rentals at each station.
 This project was made using Kafka.
 
+![alt text](https://play-lh.googleusercontent.com/hlBBO-dmeIbAriEsyzJMDkJx9gYCsfB-LMSiYSJqTrc57_gpxAk6pDM358TMhkKVkw)
+
 ## Features
 
 - Status verification of each station.

@@ -1,10 +1,6 @@
 # Monitoring Vélib Stations
 ## DataStream Project
 
-[![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
-
-[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
-
 We will use Vélib API, that allows to monitor bike stations in many cities, to observe real-time rentals at each station.
 This project was made using Kafka.
 
